@@ -1,0 +1,8 @@
+---
+title: "four-categorical-variables"
+author: "Ryan"
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
