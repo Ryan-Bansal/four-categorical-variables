@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "analysis.html",
+    "href": "analysis.html",
+    "title": "Sex and Vote Choice in the 1992 U.S. Election",
+    "section": "",
+    "text": "This graphic shows the predicted probability of voting for Clinton, Bush, or Perot based on a voter’s sex in the 1992 U.S. presidential election. Clinton received more support from women, while men were more likely to vote for Bush or Perot. These probabilities are not raw percentages but are derived from a statistical model — our DGM — based on the sex variable alone.\nThe predicted probability that a female voter supported Clinton was about 46%, compared to 39% for male voters. These estimates have a margin of uncertainty of around ±4 percentage points. These results suggest that gender played a meaningful role in shaping vote choice in 1992, though our model does not include other important factors such as income, education, or ideology. Including such variables could refine these estimates further."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  }
+]
